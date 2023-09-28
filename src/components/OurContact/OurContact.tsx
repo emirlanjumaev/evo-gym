@@ -1,4 +1,3 @@
-import React from "react";
 import STitle from "../STitle/STitle";
 import Img from "@/assets/ContactUsPageGraphic.png";
 import MyMotion from "../mymotion/MyMotion";
